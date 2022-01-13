@@ -1,2 +1,2 @@
-# reaume
+# resume
 Welcome to My Personal Website
